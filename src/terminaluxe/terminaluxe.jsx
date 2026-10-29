@@ -26,7 +26,7 @@ export default function Terminaluxe() {
           </p>
         </header>
 
-        <main>
+        <main className="flex flex-col w-11/12 justify-center items-center mx-auto ">
           {/* SPARKLE SVG */}
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -38,9 +38,9 @@ export default function Terminaluxe() {
           </svg>
 
           {/* CARD CONTAINER */}
-          <section className="flex flex-wrap justify-center w-11/12 gap-6 mx-auto mb-5">
+          <section className="flex flex-col gap-6 mx-auto mb-5 text-sm lg:flex-row">
             {/* PRICE CARD */}
-            <section className="sm:w-80 my-4  border border-cyan-300/50 w-11/12">
+            <section className="lg:w-1/3  border border-cyan-300/50 w-11/12">
               {/* CARD HEADER */}
               <section className="bg-cyan-400 flex items-center justify-center p-3 relative">
                 <h3 className="flex items-self-start text-black font-bold text-xl font-space-mono ">
@@ -67,14 +67,14 @@ export default function Terminaluxe() {
                   The bare minimum with a touch of flair—because even the most
                   mundane tasks deserve a hint of luxury.
                 </p>
-                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-11/12 h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
+                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-full h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
                   Buy Now
                 </button>
               </section>
             </section>
 
             {/* PRICE CARD */}
-            <section className="sm:w-80 my-4  border border-cyan-300/50 w-11/12">
+            <section className="lg:w-1/3  border border-cyan-300/50 w-11/12">
               {/* CARD HEADER */}
               <section className="bg-cyan-400 flex items-center justify-center p-3 relative">
                 <h3 className="flex items-self-start text-black font-bold text-xl font-space-mono ">
@@ -101,14 +101,14 @@ export default function Terminaluxe() {
                   The bare minimum with a touch of flair—because even the most
                   mundane tasks deserve a hint of luxury.
                 </p>
-                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-11/12 h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
+                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-full h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
                   Buy Now
                 </button>
               </section>
             </section>
 
             {/* PRICE CARD */}
-            <section className="sm:w-80  my-4  border border-cyan-300/50 w-11/12">
+            <section className="lg:w-1/3   border border-cyan-300/50 w-11/12">
               {/* CARD HEADER */}
               <section className="bg-cyan-400 flex items-center justify-center p-3 relative">
                 <h3 className="flex items-self-start text-black font-bold text-xl font-space-mono ">
@@ -135,7 +135,7 @@ export default function Terminaluxe() {
                   The bare minimum with a touch of flair—because even the most
                   mundane tasks deserve a hint of luxury.
                 </p>
-                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-11/12 h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
+                <button className="border border-r-3 border-b-3 bg-black border-cyan-300 w-full h-12 text-lg my-4 hover:bg-cyan-300 hover:text-black hover:cursor-pointer ">
                   Buy Now
                 </button>
               </section>
