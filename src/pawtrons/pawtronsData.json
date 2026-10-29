@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "./luna_oliver.jpg",
+    "alt": "Luna and Oliver",
+    "title": "Luna & Oliver",
+    "review": "I've never felt more comfortable leaving my cats anywhere else. The staff is incredibly caring, and the facility is spotless. Luna and Oliver are always happy and well cared for!",
+    "author": "Emily James"
+  },
+  {
+    "id": 2,
+    "image": "./milo.jpg",
+    "alt": "Milo",
+    "title": "Milo",
+    "review": "The team at this cattery goes above and beyond to ensure that every pet feels at home. Milo always comes back relaxed and well-groomed after his stay!",
+    "author": "David Robertson"
+  },
+  {
+    "id": 3,
+    "image": "./bella_max.jpg",
+    "alt": "Bella and Max",
+    "title": "Bella & Max",
+    "review": "From the moment I walked in, I knew Bella and Max were in great hands. The staff is knowledgeable and truly loves animals, which made all the difference for us!",
+    "author": "Jessica Harper"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&w=800&q=80",
+    "alt": "Orange cat relaxing",
+    "title": "Oliver",
+    "review": "Oliver settled in quickly and received so much love and attention. The regular updates gave us complete peace of mind while we were away!",
+    "author": "Sarah Mitchell"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80",
+    "alt": "Beautiful cat looking at the camera",
+    "title": "Luna",
+    "review": "Luna is usually shy around new people, but the caring staff made her feel comfortable from day one. We will definitely return!",
+    "author": "Michael Turner"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat resting comfortably",
+    "title": "Charlie",
+    "review": "Charlie came home relaxed, happy, and ready for cuddles. The rooms were clean, and the team clearly understands what cats need.",
+    "author": "Olivia Parker"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat enjoying a peaceful rest",
+    "title": "Mittens",
+    "review": "Excellent service from booking to pickup. Mittens received wonderful care, and the team was always happy to answer our questions.",
+    "author": "Daniel Brooks"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat playing indoors",
+    "title": "Coco",
+    "review": "Coco loved the comfortable surroundings and attentive carers. It is such a relief to find a place where pets are treated like family!",
+    "author": "Amelia Scott"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat sitting indoors",
+    "title": "Simba",
+    "review": "Simba can be quite particular, but he settled in beautifully. The staff kept us informed and made his stay feel like a home away from home.",
+    "author": "James Wilson"
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1519052537078-e6302a4968d4?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat relaxing on a soft surface",
+    "title": "Daisy",
+    "review": "Daisy received gentle, attentive care throughout her visit. Everything was organised perfectly, and pickup was quick and easy.",
+    "author": "Grace Thompson"
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=800&q=80",
+    "alt": "Curious cat looking toward the camera",
+    "title": "Oscar",
+    "review": "Oscar came back cheerful and well cared for. The friendly team made the entire experience stress-free for both us and our cat.",
+    "author": "Noah Bennett"
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?auto=format&fit=crop&w=800&q=80",
+    "alt": "Cat with a playful expression",
+    "title": "Poppy",
+    "review": "Poppy had a lovely stay, and we appreciated the thoughtful care and clean facilities. We would happily recommend this cattery to other cat owners!",
+    "author": "Charlotte Evans"
+  }
+]

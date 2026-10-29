@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@import "tailwindcss";
+
+/* to craete a custom brand color*/
+
+@theme {
+  --color-vanlife-50: #fff7ed;
+  --color-vanlife-100: #ffedd5;
+  --color-vanlife-200: #fed7aa;
+  --color-vanlife-300: #fdba74;
+  --color-vanlife-400: #fb923c;
+  --color-vanlife-500: #f97316;
+  --color-vanlife-600: #ea580c;
+  --color-vanlife-700: #c2410c;
+  --color-vanlife-800: #9a3412;
+  --color-vanlife-900: #7c2d12;
+  --color-vanlife-950: #431407;
+  --font-inter: "Inter", sans-serif;
+}
