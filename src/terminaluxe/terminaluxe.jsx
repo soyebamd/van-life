@@ -38,7 +38,7 @@ export default function Terminaluxe() {
           </svg>
 
           {/* CARD CONTAINER */}
-          <section className="flex flex-col gap-6 mx-auto mb-5 text-sm lg:flex-row">
+          <section className="flex flex-col gap-6 mx-auto mb-5 text-sm lg:flex-row items-center">
             {/* PRICE CARD */}
             <section className="lg:w-1/3  border border-cyan-300/50 w-11/12">
               {/* CARD HEADER */}
