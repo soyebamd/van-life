@@ -5,6 +5,7 @@ import viteLogo from "./assets/vite.svg";
 import Pawtrons from "./pawtrons/pawtrons";
 import Terminaluxe from "./terminaluxe/terminaluxe";
 import Form from "./form/form";
+import NotFound from "./404/page-404";
 import "./index.css";
 import "./App.css";
 
@@ -18,6 +19,8 @@ function App() {
       <Terminaluxe />
 
       <Form />
+
+      <NotFound />
     </>
   );
 }
